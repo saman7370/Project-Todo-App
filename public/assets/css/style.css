@@ -29,7 +29,7 @@ h2{
     text-align: center;
     position: absolute;
     top: 10%;
-    right: 42%;
+    right: 38%;
     font-size: 35px;
     color:cornsilk;
     word-spacing: 5px;}
@@ -126,8 +126,10 @@ span{
     font-size: 18px;}
 
 .massege{
+    position: absolute;
+    top: 25%;
     width: 100%;
     text-align: center;
     color: #c00;
-    font-size: 20px;
+    font-size: 25px;
     padding: 10px;}
