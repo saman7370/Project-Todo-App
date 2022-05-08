@@ -20,7 +20,7 @@ const TopForm = ()=>{
         <>
         <div className = "main">
             <form>
-                <h2>سلام به وب سایت من خوش آمدید</h2>
+                <h2> کاری را تایپ کنید و ثبت کنید و یا حذف کنید</h2>
                    <div className = "box-input">
                       <input className = "top-input" type = "text" placeholder = "چیزی بنویسید"
                       value = {task} onChange = {handleSetTask}></input>
